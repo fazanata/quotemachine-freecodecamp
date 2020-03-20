@@ -124,7 +124,7 @@ class App extends React.Component {
             <button onClick={this.shareOnTwitter}>Twitt</button>
           </a>
           <button id="new-quote" onClick={this.handleClick}>
-            New Quote
+            Show New Quote
           </button>
         </div>
       </div>
